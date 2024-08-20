@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.scoula.mapper.TimeMapperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-06T13:54:24" hostname="DESKTOP-DEJV3LS" time="0.221">
+  <properties/>
+  <testcase name="TimeMapper의getTime2()" classname="org.scoula.mapper.TimeMapperTest" time="0.221"/>
+  <system-out><![CDATA[INFO : org.springframework.test.context.support.DefaultTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+INFO : org.springframework.test.context.support.DefaultTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@3eeb318f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@20a14b55, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@39ad977d, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@6da00fb9, org.springframework.test.context.support.DirtiesContextTestExecutionListener@a202ccb, org.springframework.test.context.transaction.TransactionalTestExecutionListener@20f12539, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@75b25825, org.springframework.test.context.event.EventPublishingTestExecutionListener@18025ced]
+INFO : com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+INFO : com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+INFO : org.scoula.mapper.TimeMapperTest - getTime2
+INFO : org.scoula.mapper.TimeMapperTest - 2024-08-06 22:54:24
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
