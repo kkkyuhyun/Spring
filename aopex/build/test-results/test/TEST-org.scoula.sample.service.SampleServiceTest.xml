@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.scoula.sample.service.SampleServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-18T14:39:16" hostname="DESKTOP-DEJV3LS" time="0.035">
+  <properties/>
+  <testcase name="addError()" classname="org.scoula.sample.service.SampleServiceTest" time="0.031"/>
+  <testcase name="doAdd()" classname="org.scoula.sample.service.SampleServiceTest" time="0.003"/>
+  <system-out><![CDATA[INFO : org.springframework.test.context.support.DefaultTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+INFO : org.springframework.test.context.support.DefaultTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6475472c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@3f07b12c, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@4bd1f8dd, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7096b474, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3e14c16d, org.springframework.test.context.event.EventPublishingTestExecutionListener@3c989952]
+INFO : org.scoula.advice.LogAdvice - Target:org.scoula.sample.service.SampleServiceImpl@49aa766b
+INFO : org.scoula.advice.LogAdvice - Param:[123, 456]
+INFO : org.scoula.advice.LogAdvice - str1: 123
+INFO : org.scoula.advice.LogAdvice - str2: 456
+INFO : org.scoula.advice.LogAdvice - ==================================
+INFO : org.scoula.advice.LogAdvice - TIME: 6
+INFO : org.scoula.sample.service.SampleServiceTest - 579
+INFO : org.scoula.advice.LogAdvice - Target:org.scoula.sample.service.SampleServiceImpl@49aa766b
+INFO : org.scoula.advice.LogAdvice - Param:[123, 456]
+INFO : org.scoula.advice.LogAdvice - str1: 123
+INFO : org.scoula.advice.LogAdvice - str2: 456
+INFO : org.scoula.advice.LogAdvice - ==================================
+INFO : org.scoula.advice.LogAdvice - TIME: 0
+INFO : org.scoula.sample.service.SampleServiceTest - 579
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
